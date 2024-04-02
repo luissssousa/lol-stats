@@ -24,6 +24,19 @@
     --lds-gray-1000: #2D2D4E;
     --lds-gray-white: #FFFFFF;
 
+    --lds-gray-dark-50: #050508;
+    --lds-gray-dark-100: #0A0A10;
+    --lds-gray-dark-200: #0D0C14;
+    --lds-gray-dark-300: #12111B;
+    --lds-gray-dark-400: #15141F;
+    --lds-gray-dark-500: #1A1928;
+    --lds-gray-dark-600: #201F31;
+    --lds-gray-dark-700: #252338;
+    --lds-gray-dark-800: #2A2840;
+    --lds-gray-dark-900: #302E45;
+    --lds-gray-dark-1000: #2D2D4E;
+    --lds-gray-dark-white: #FFFFFF;
+
     --lds-green-100: #EEFFF8;
     --lds-green-200: #C7FFE8;
     --lds-green-300: #A1FFD7;

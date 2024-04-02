@@ -1,0 +1,18 @@
+@import url(/styles/components/index.css);
+@import url(/styles/design-tokens/global-colors.css);
+@import url(/styles/design-tokens/themes.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Cabin", sans-serif;
+    color: var(--lds-text-primary);
+
+    background-color: var(--lds-background-page);
+}
+span.material-symbols-sharp {
+    font-size: 20px;
+}

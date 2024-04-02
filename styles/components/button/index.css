@@ -1,0 +1,39 @@
+@import url(/styles/design-tokens/global-colors.css);
+@import url(/styles/design-tokens/themes.css);
+
+.btn{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   gap: 8px;
+   padding: 0px 16px;
+
+   border: transparent;
+
+   height: 40px;
+
+   text-decoration: none;
+}
+
+.btn__primary{
+    
+    background-color: var(--lds-background-accent);
+
+    font-weight: 700;
+    color: var(--lds-text-button);
+}
+.btn__primary:hover{
+    background-color: var(--lds-lime-600);
+}
+
+.btn__icon{
+    width: 40px;
+    background-color: transparent;
+    font-weight: 200;
+    color: var(--lds-text-primary);
+    font-size: 16px;
+}
+.btn__icon:hover{   
+    background-color: var(--lds-surface-hovered);
+}

@@ -1,0 +1,56 @@
+@import url(/styles/design-tokens/global-colors.css);
+@import url(/styles/design-tokens/themes.css);
+
+/* NAVBAR */
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 0px 24px;
+    height: 56px;
+    
+
+    background-color: var(--lds-surface-tertiary);
+
+}
+
+.navbar-left-cont{
+ display: flex;
+ align-items: center;
+ gap: 16px;
+}
+.navbar-left-cont ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.navbar-right-cont{
+    display: flex;
+align-items: center;
+    flex-direction: row;
+    gap: 8px;
+}
+
+/* NAVBAR ITEM */
+.nav-item{
+    display: flex;
+    align-items: center;
+
+    padding: 0px 12px;
+    height: 40px;
+
+    color: var(--lds-text-primary) ;
+    text-decoration: none;
+}
+.nav-item:hover{
+    background-color: var(--lds-surface-hovered);
+    color: var(--lds-text-primary) ;
+}
+.nav-item:active{
+    font-weight: 700;
+    color: var(--lds-text-accent) ;
+    border-bottom: 2px solid var(--lds-border-color-accent);
+}
+
