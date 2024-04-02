@@ -1,0 +1,1006 @@
+{
+    "color": {
+      "gray": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#f4f5f9ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8a76cf0ac999d95ef267c601e92311bcf55e62ff,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#e0e1e9ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:628b12d471c71ab3ccd4ddef8804557993a9993d,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#c4c7cfff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:96a7f223694654401ce9fd90dc5faa7ffe34278e,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#a9abb6ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:08ccc97b79868dbbbf695b0f42c4c476ad6641f6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#8a8e9bff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:af05122dd79c0fb458b6b76a4f6766e49628ec1a,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#6c6e79ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:6a42baae4f1d97b4c5225450a9513a67729e8b80,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#484a54ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:7664f149731df6ef2d8626a1dc7cb753101905ac,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#2b2e38ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:7830d577f0e32bca6b9d70444c5bbe4534046a36,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#191b23ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:c00cad131241fcbb2d651eea4934f1856e14d40b,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "white": {
+          "description": "",
+          "type": "color",
+          "value": "#ffffffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:4ad8f7b76d6f83453e70148cc2670019785ea134,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "blue": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#e9f7ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:75165c0e6f566dd713a010663f55adbe08cacec6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#c4e5feff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d37abfe5519112fc322fe6a73e6da8f6b887b0be,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#8ecdffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:ce1c8bdeec54ee8f548c4d39e78cfa85d782a3e6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#2bb3ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8a2a92aa26d381b2473e538d6cd46f113e857991,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#008ff8ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:5c76898aa8bc1c74805876c8ecd9e3a242e963d3,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#006dcaff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:62f1ddbee2c37572fd86f314f2352f717aef9deb,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#044792ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:ce64f4289658eef94c00e6ce966e8aff2ed9e2f7,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#002b5fff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f239a8ebc4480270371469875d46ad06b1ad1872,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#001b3dff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:33a9527146f9c4b5356addd741c1b9b59d25271a,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "green": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#dbfee8ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:7e9639b8f73b59bcadc26afffd2a8f059d4d3d8e,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#9ef2c9ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:04d0d31691a3f053ee75cae65bba9afeefc891d2,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#59ddaaff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:1dfa831c07f8b65e086d9dc7f967e1ad636eb072,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#00c192ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a7d46bda86910dc297b9147531ac9cab30101db6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#009f81ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:bd3f95266e26fdff37e6a48c7f39c830f76886ca,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#007c65ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d2dc234414887d269cd3f5e1df1ed5073828fb78,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#055345ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:4b93978fe9d8d14a2c1ea36dd667f7a80e2f6cf4,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#00342dff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:483dc1c035d46e6d7fd2dface7a6cf241a7eb0cd,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#00201eff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:91f219f83707615a43559233e422c1018f3b29a7,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "red": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#fff0f7ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d8ec898f6f148f6e4dee6bca45c5f2cf2e95995e,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#ffd7dfff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:b755894bda969ac36dd4c3a25a206e7d13a30dcd,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#ffaeb5ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:34104f29a7b1d308fa77784c7c6591823ecea86b,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#ff8786ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d18d5fa6f6cb5e34488b4a3c66873b59dcd09355,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#ff4953ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:dc9bf68649775da40dc07cce884b23355fe8e2bb,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#d1002fff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:4d927d50eae707ce718e330cf817239e7ace4c0c,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#8e0016ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:affa42bb21aa1f47967720b5cc338bc1aa64f724,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#58000aff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:9cb8b0d88c1852f1eed3054f8bf06117c6d93421,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#410101ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f082d0eeaf549857ad6c66aadedebdf109ec5c69,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "orange": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#fff3d9ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:30ebcd167ad2236ef1dd94def3765ca7529e8ef3,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#ffdca2ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:fc6c3dc773b02aeb54c25a983bd7feb8f7e60f4a,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#ffb26eff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:9a3401a55befd97f79b2876bba38656469c7085f,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#ff8c43ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:bd9809ea7e4833321f442acad6c6448c5627ee90,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#ff642dff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:68440124c27fa65e98de3503b39a16a820f1eea4,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#c33909ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8bc2eeda043f689ee10be605b44f86147126b3e4,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#8b1500ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:00d61162d9faa03e381c61d4848431166a06200a,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#551200ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:cff7d203a1a73526ace7e2b59a4f6315922a84c5,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#351000ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:109e13f5e951b092418977d9502b56000a951992,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "yellow": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#fdf7c8ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:9bb7fb277169926d1e0296770a97b975e817a0e2,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#fce081ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8e141e5b0bd0b26c8f594c7ff790acc13aac0557,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#fdc23cff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:631888643cc74f68c2605fc4629a9f09f963aeaf,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#ef9800ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:d5b3e94d8b536c04df3a0813b665347444887bfd,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#d87900ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:229caade83f0012193d5ca244e1e283ec6c3e673,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#a75800ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:848ef30e372f0b27ab01d81412c920bb0b0d333a,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#743a00ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:c3ca695bb5666ef80619bc3fff0aeb40f2cb1873,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#462500ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:1d7bb2f5099c2be4c549e4ee1324369eecc1441f,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#2c1600ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a447acfed27ef8fcfa54c4d3d9bd58cc9ff3a386,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "violet": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#f9f2ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:04a6912570c1cf831bfb9a6767263c1d97933af5,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#edd9ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3bdf690dc68628a8623f1f612a15c1c444b0c570,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#dcb8ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f37d8f98d5c45b3458b776bf71d93f2f5a6c063c,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#c695ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:010c3ea9eef498decd0beb327775091d5b70b291,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#ab6cfeff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:3d8c86e0fab9449f764e7f665ac7e91bb51ce4b4,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#8649e1ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f8f4b90d6e8232acc1146bf25c2de11871789140,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#5925abff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:36ffb10e26cb53025b94474aa89beec017626266,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#421983ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:18a9954631c959e43d4ece5fb8fbc99762534a8f,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#220358ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:6a668ac0b0391ec9cb91d75242d41d72b791183e,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "pink": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#fff0ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:8f4151f6f418ad4490ad664aebd8bb3b7a726fed,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#ffd3ffff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f6a9e63541ace313815bbff9c67f8fb48ed48708,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#ffa9faff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a026db779b6113966b0de0420e934d4b4eefb3b7,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#f67cf2ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f8a22dac6fda57c2f3f675d5cd28ceec081f21bc,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#e14adfff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:dbba90354e42380999dddb3c5ac2d2bc5443b272,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#b229b9ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:209a84d5fb9f5c45e5a28ff08556fc750a6a94c3,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#7d0480ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:144dd2029429a6e1838a1a076ecbc029b3e3998c,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#4d0050ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:f6afa7cc2bb336d27870a26955ed9801ef346399,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#340439ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:cb8261eb93111a30a00cfdf180ce59f049716e02,",
+              "exportKey": "color"
+            }
+          }
+        }
+      },
+      "salad": {
+        "50": {
+          "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision.",
+          "type": "color",
+          "value": "#ecfbcdff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:a21cec7095cd18560476bf153091df05087abcb7,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "100": {
+          "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements.",
+          "type": "color",
+          "value": "#c7ee96ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:75647e33c5a5482c0c6d9f8fac74727d4f80d275,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "200": {
+          "description": "",
+          "type": "color",
+          "value": "#9bd85dff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:64fc9dc843469d4f74553e3f458e4616da58b5b6,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "300": {
+          "description": "",
+          "type": "color",
+          "value": "#66c030ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:eef31ee82e745a134a08327a4c55bdd8b8954192,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "400": {
+          "description": "",
+          "type": "color",
+          "value": "#35a21eff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:64548e39df717be116884ef600a0445aec1b9f78,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "500": {
+          "description": "",
+          "type": "color",
+          "value": "#0a7e22ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:6e7cb095af744f99754f3d3d8d57448ee44f8e2e,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "600": {
+          "description": "",
+          "type": "color",
+          "value": "#005613ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:ea4e33b681d0f2b10144f6290a597b57a079f150,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "700": {
+          "description": "",
+          "type": "color",
+          "value": "#003509ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:6833208658256514e023099c8f7994df700ae1e5,",
+              "exportKey": "color"
+            }
+          }
+        },
+        "800": {
+          "description": "",
+          "type": "color",
+          "value": "#002203ff",
+          "blendMode": "normal",
+          "extensions": {
+            "org.lukasoppermann.figmaDesignTokens": {
+              "styleId": "S:97561bacab1a20f3b36d6211377eb85195fc36c6,",
+              "exportKey": "color"
+            }
+          }
+        }
+      }
+    }
+  }
