@@ -1,0 +1,24 @@
+@import url(/design-tokens/global-colors.css);
+
+.light{
+
+    --lds-surface-hovered: rgba(213,199,255,0.18);
+    --lds-surface-primary: rgba(213,199,255,0.1);
+    --lds-surface-secondary: rgba(239,234,255,0.2);
+
+    --lds-text-accent: var(--lds-lime-500);
+    --lds-text-primary: #FFFFFF;
+    --lds-text-button: #100651;
+    --lds-text-secondary: #BBBBDF;
+    --lds-text-tertiary: #61618C;
+
+    --lds-background-accent: #DCF230;
+    --lds-background-disabled: #35365D;
+    --lds-background-page: #0A0A10;
+    --lds-background-secondary: #444476;
+    --lds-border-color-default: rgba(3,2,4,0.16);
+}
+
+.dark{
+    
+}

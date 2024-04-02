@@ -1,0 +1,81 @@
+:root{
+    
+    --lds-blue-100: #EEF2FF;
+    --lds-blue-200: #C7D7FF;
+    --lds-blue-300: #A1BBFF;
+    --lds-blue-400: #7BA0FF;
+    --lds-blue-500: #5482FB;
+    --lds-blue-600: #3F6AD9;
+    --lds-blue-700: #2C53B7;
+    --lds-blue-800: #1E3F95;
+    --lds-blue-900: #122D73;
+    --lds-blue-1000: #091D51;
+
+    --lds-gray-50: #DBDBEE;
+    --lds-gray-100: #BBBBDF;
+    --lds-gray-200: #9A9AD0;
+    --lds-gray-300: #7A7BC1;
+    --lds-gray-400: #5D5EA1;
+    --lds-gray-500: #444476;
+    --lds-gray-600: #3F3F6D;
+    --lds-gray-700: #3A3A64;
+    --lds-gray-800: #35365D;
+    --lds-gray-900: #313155;
+    --lds-gray-1000: #2D2D4E;
+    --lds-gray-white: #FFFFFF;
+
+    --lds-green-100: #EEFFF8;
+    --lds-green-200: #C7FFE8;
+    --lds-green-300: #A1FFD7;
+    --lds-green-400: #7BFFC7;
+    --lds-green-500: #54FBB5;
+    --lds-green-600: #3FD998;
+    --lds-green-700: #2CB77D;
+    --lds-green-800: #1E9563;
+    --lds-green-900: #12734A;
+    --lds-green-1000: #095133;
+
+    --lds-lime-100: #FCFFEA;
+    --lds-lime-200: #F7FFBC;
+    --lds-lime-300: #F2FF8E;
+    --lds-lime-400: #EDFF60;
+    --lds-lime-500: #DCF230;
+    --lds-lime-600: #BCD01E;
+    --lds-lime-700: #9CAE0F;
+    --lds-lime-800: #7D8C05;
+    --lds-lime-900: #5E6A00;
+    --lds-lime-1000: #404800;
+
+    --lds-pink-100: #F9F3FF;
+    --lds-pink-200: #E7CFFF;
+    --lds-pink-300: #D1A8FB;
+    --lds-pink-400: #B980F2;
+    --lds-pink-500: #A06BD5;
+    --lds-pink-600: #8757B8;
+    --lds-pink-700: #70459B;
+    --lds-pink-800: #59347D;
+    --lds-pink-900: #432660;
+    --lds-pink-1000: #2E1843;
+
+    --lds-purple-100: #F0EEFF;
+    --lds-purple-200: #CFC7FF;
+    --lds-purple-300: #ADA1FF;
+    --lds-purple-400: #8C7BFF;
+    --lds-purple-500: #6954FB;
+    --lds-purple-600: #513DD9;
+    --lds-purple-700: #3C2AB7;
+    --lds-purple-800: #2A1A95;
+    --lds-purple-900: #544A96;
+    --lds-purple-1000: #100651;
+    
+    --lds-red-100: #FFEEEE;
+    --lds-red-200: #FFC7C7;
+    --lds-red-300: #FFA1A1;
+    --lds-red-400: #FF7B7B;
+    --lds-red-500: #FB5454;
+    --lds-red-600: #D93F3F;
+    --lds-red-700: #B72C2C;
+    --lds-red-800: #951E1E;
+    --lds-red-900: #731212;
+    --lds-red-1000: #510909
+}
