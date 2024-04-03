@@ -16,3 +16,27 @@ body{
 span.material-symbols-sharp {
     font-size: 20px;
 }
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 40px;
+    padding: 88px 24px;
+    width: 100%;
+}
+.search{
+    width: 676px;
+    margin-bottom: 40px;
+}
+.home-inpbtns{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-ctas{
+    display: flex;
+    gap: 8px;
+}

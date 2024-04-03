@@ -16,6 +16,15 @@
    text-decoration: none;
 }
 
+.btn:disabled{
+    background-color: var(--lds-background-disabled);
+}
+
+.btn--small{
+    height: 32px;
+    text-decoration: none;
+}
+
 .btn__primary{
     
     background-color: var(--lds-background-accent);
@@ -35,5 +44,13 @@
     font-size: 16px;
 }
 .btn__icon:hover{   
+    background-color: var(--lds-surface-hovered);
+}
+.btn__secondary{
+    background-color: var(--lds-surface-primary);
+    font-weight: 700;
+    color: var(--lds-text-primary);
+}
+.btn__secondary:hover{
     background-color: var(--lds-surface-hovered);
 }
