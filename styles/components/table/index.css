@@ -1,0 +1,44 @@
+@import url(/styles/design-tokens/global-colors.css);
+@import url(/styles/design-tokens/themes.css);
+
+table{
+    border-collapse: collapse;
+    font-weight: 75;
+}
+
+th{
+    max-height: 40px;
+    text-align: left;
+    padding: 16px;
+}
+tr:has(th) {
+    background-color: transparent;
+}
+
+
+tr{
+    border-bottom: 4px solid var(--lds-background-page);
+    background-color: var(--lds-surface-primary);
+}
+
+td{
+    height: 56px;
+
+    padding: 0px 16px;
+    
+}
+.td-caption{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+}
+.tb-rs{
+    text-align: right;
+}
+.tb-teams{
+    text-align: center;
+}
+.td-live{
+    background: linear-gradient(90deg, #B72C2C, rgba(26, 25, 40, 0)) 0%;
+}
